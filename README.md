@@ -8,11 +8,12 @@ In the first step, download the software to your computer and complete the insta
 Specify the directory where GTA V is installed.
 Then, select the mods you want or add your own mod files.
 The software will automatically install the selected mods into the GTA V directory.
+
 Features
 
 User-friendly interface and quick installation process.
 Automatic mod detection and installation.
-Five language suppport
+Five language suppport [Turkish, English, Deutsch, Español, Français, Português, 中文]
 
 This software is designed to simplify mod management and installation for GTA V players. We welcome your feedback during the development process. Happy gaming!
 
