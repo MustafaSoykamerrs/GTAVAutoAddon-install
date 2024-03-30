@@ -4,10 +4,12 @@ This software is an automatic installation tool that makes adding mods to Grand 
 
 How It Works?
 
-In the first step, download the software to your computer and complete the installation.
-Specify the directory where GTA V is installed.
-Then, select the mods you want or add your own mod files.
-The software will automatically install the selected mods into the GTA V directory.
+1- We download the necessary files to our computer.
+2- We extract it from the zip file
+3- We go to that folder and type cmd in the address bar and run it.
+4- Then we type pip install -r -requirements.txt.
+Note: Python must be installed on your computer.
+Done, we run the main.py file
 
 Features
 
